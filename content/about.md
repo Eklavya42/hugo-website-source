@@ -1,7 +1,7 @@
 +++
 title = "About Me"
 date = "2020-06-16"
-aliases = [""]
+aliases = ["about"]
 [ author ]
   name = "Eklavya Chopra"
 +++
